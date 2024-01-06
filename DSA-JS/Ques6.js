@@ -1,4 +1,4 @@
-//Remove all duplicates from an array of integers
+//Remove all duplicates from an array of integer
 const arr = [1, 1, 1, 1, 1, 1, 1];
 const removeDupes = (arr) => {
   let result = [];
