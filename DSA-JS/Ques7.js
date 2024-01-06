@@ -1,4 +1,4 @@
-//Find all pairs in an array of integers whose sum is equal to a given number
+//Find all pairs in an array of integers whose sum is equal to a given numbers
 let arr = [1, 5, 6, 1, 0, 1];
 const findSumPairs = (arr, value) => {
   let sumsLookup = {};
