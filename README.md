@@ -4,25 +4,37 @@ Welcome to the JavaScript Data Structures and Algorithms (DSA) Series! This repo
 
 ## Overview
 
-This series aims to provide comprehensive explanations and practical implementations of fundamental data structures and algorithms using JavaScript. The content covers essential topics including:
+This repository is dedicated to showcasing different data structures and algorithms implemented in JavaScript. Each section contains a problem statement along with its solution and example usage in JavaScript.
 
-- Array manipulation
-- String manipulation
-- Searching and sorting algorithms
-- Basic data structures: stacks, queues
-- Recursion
-- And more...
+## Questions
 
-Each topic includes detailed explanations and code samples, making it accessible for beginners and helpful for those looking to refresh their understanding of DSA principles.
-
-## Contents
-
-- **Arrays**: Various array manipulation techniques.
-- **Strings**: String-related algorithms and manipulations.
-- **Search Algorithms**: Implementations of search algorithms like binary search.
-- **Sorting Algorithms**: Different sorting techniques with JavaScript implementations.
-- **Stacks and Queues**: Explanation and code for stack and queue data structures.
-- **Recursion**: Examples demonstrating the concept of recursion.
+- Max Number in an Array
+- Reverse a String
+- Check Palindrome
+- Implement Stack
+- Implement Queue
+- Calculate Factorial
+- Check Prime Number
+- Remove Duplicates from Array
+- Calculate Fibonacci Series
+- Implement Binary Search
+- Check Anagrams
+- Rotate Array
+- Find Missing Number
+- Calculate Power
+- Implement Bubble Sort
+- Find Intersection of Arrays
+- Implement Linked List
+- Find Median of Sorted Arrays
+- Implement Priority Queue
+- Sieve of Eratosthenes
+- Find Longest Substring Without Repeating Characters
+- Implement Binary Tree with In-Order Traversal
+- Fibonacci Series with Memoization
+- Depth-First Search on a Graph
+- Reverse a Linked List
+- Find First Recurring Character
+- Merge Sort Algorithm
 
 ## Usage
 
