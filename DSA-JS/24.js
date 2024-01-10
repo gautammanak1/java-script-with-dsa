@@ -1,5 +1,5 @@
 // Find the longest substring without repeating characters.
-function gautamManak(str) {
+function subString(str) {
   let longest = 0;
   let start = 0;
   let charMap = {};
@@ -17,4 +17,4 @@ function gautamManak(str) {
 }
 //Lets Check
 let text = "abcabcbb";
-console.log(gautamManak(text));
+console.log(subString(text));
