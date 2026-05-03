@@ -3,7 +3,7 @@
 let company = {
   Name: "MeerutCodeHub",
   Address: "Meerut",
-  Contact: "+919997355153",
+  Contact: "",
   Email: "meerutcodehub@gmail.com",
 };
 
